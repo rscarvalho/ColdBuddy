@@ -1,4 +1,4 @@
-# ColdBuddy - a temperature/humidity monitor built on top of arduino
+# ColdBuddy - a temperature/humidity monitor built on top of arduino ![Continuous Integration](https://travis-ci.org/rscarvalho/ColdBuddy.svg?branch=master)
 
 This project is my first attempt on building stuff with microcontrollers.
 It monitors temperature and humidity and displays it on a screen.
